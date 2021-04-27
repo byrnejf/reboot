@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My third post"
 date:   2021-04-27 15:32:45 +0100
 categories: Fitness
