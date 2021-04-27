@@ -25,7 +25,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: GFM
+markdown: gfm
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
