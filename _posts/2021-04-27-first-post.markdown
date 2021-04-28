@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "My first post"
+title:  "And so it begins..."
 date:   2021-04-27 14:51:45 +0100
 categories: Fitness
 ---
